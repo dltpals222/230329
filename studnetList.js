@@ -49,3 +49,5 @@ function searching(array, name) {
     }
   } 
 }
+
+const aa = searching()
